@@ -15,7 +15,7 @@ make
 ```
 the last command will return nothing, because it does nothing
 
-(it will work on macOS with a tweak, and windows requires some manual care)
+(windows will work, but needs you to set paths to glfw)
 
 ## why
 
