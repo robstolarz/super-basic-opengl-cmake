@@ -2,8 +2,8 @@
 
 ## build
 
-* install linux
-* install glfw from your package manager
+* install unix (macOS counts)
+* install glfw from your package manager (macOS uses https://brew.sh)
 * clone this repo
 * run the following:
 
